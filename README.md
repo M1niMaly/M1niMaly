@@ -1,4 +1,4 @@
-## M1iniMaly
+## M1niMaly
 
 <!--
 **M1niMaly/M1niMaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
